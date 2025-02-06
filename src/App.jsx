@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import ProductGrid from './components/ProductGrid';
 import Cart from './components/Cart';
-import { CartProvider } from './context/CartContext';1
+import { CartProvider } from './context/CartContext';
 
 function App() {
   return (
